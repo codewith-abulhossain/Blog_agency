@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development",
+    "description": "Build responsive and visually appealing websites using modern technologies like React, Next.js, and Node.js.",
+    "icon": "web-development-icon.png",
+    "price": "Starting at $500"
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Design",
+    "description": "Design user-friendly interfaces and experiences tailored to your audience.",
+    "icon": "ui-ux-design-icon.png",
+    "price": "Starting at $300"
+  },
+  {
+    "id": 3,
+    "title": "E-Commerce Solutions",
+    "description": "Develop online stores with robust features, including payment gateways and inventory management.",
+    "icon": "e-commerce-icon.png",
+    "price": "Starting at $700"
+  },
+  {
+    "id": 4,
+    "title": "SEO Optimization",
+    "description": "Enhance your website's visibility on search engines and improve organic traffic.",
+    "icon": "seo-icon.png",
+    "price": "Starting at $200"
+  },
+  {
+    "id": 5,
+    "title": "Content Writing",
+    "description": "Craft engaging and SEO-friendly content tailored to your brand and audience.",
+    "icon": "content-writing-icon.png",
+    "price": "Starting at $100"
+  },
+  {
+    "id": 6,
+    "title": "Social Media Marketing",
+    "description": "Promote your brand effectively across all major social media platforms.",
+    "icon": "social-media-marketing-icon.png",
+    "price": "Starting at $250"
+  },
+  {
+    "id": 7,
+    "title": "Maintenance & Support",
+    "description": "Ensure your website stays updated, secure, and fully functional.",
+    "icon": "maintenance-support-icon.png",
+    "price": "Starting at $100/month"
+  }
+]

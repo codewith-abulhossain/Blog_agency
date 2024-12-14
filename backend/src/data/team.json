@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "role": "Team Lead",
+    "photo": "alice.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "role": "Frontend Developer",
+    "photo": "bob.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Catherine Lee",
+    "role": "Backend Developer",
+    "photo": "catherine.jpg"
+  },
+  {
+    "id": 4,
+    "name": "David Brown",
+    "role": "UI/UX Designer",
+    "photo": "david.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Emily Davis",
+    "role": "QA Engineer",
+    "photo": "emily.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Frank Wilson",
+    "role": "DevOps Engineer",
+    "photo": "frank.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Grace Martinez",
+    "role": "Content Strategist",
+    "photo": "grace.jpg"
+  }
+]
